@@ -1,3 +1,3 @@
 ## Houa Vang
-Reflection: I lack the necessary skills to make my html via css to look great, but I can get a rough overview of what I am doing. I know this isn't my strongest skill since I go with a basic setup and only implement what I need and don't care about visuals. I don't have a strong creativity mindset when it comes to visuals of what I want since I don't need them most of the time. 
-Bugs: None known at the moment 
+### Reflection: I lack the necessary skills to make my html via css to look great, but I can get a rough overview of what I am doing. I know this isn't my strongest skill since I go with a basic setup and only implement what I need and don't care about visuals. I don't have a strong creativity mindset when it comes to visuals of what I want since I don't need them most of the time. 
+### Bugs: None known at the moment 
