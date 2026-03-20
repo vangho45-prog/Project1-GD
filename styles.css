@@ -10,6 +10,13 @@ body {
   line-height: 1.5;
 }
 
+.boldtext {
+    font-weight: bold;
+}
+nav {
+    text-align: center;
+}
+
 .section-box {
   margin-bottom: 15px;
   padding: 12px;
