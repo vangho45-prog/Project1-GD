@@ -10,8 +10,14 @@ body {
   line-height: 1.5;
 }
 
+.section-box {
+  margin-bottom: 15px;
+  padding: 12px;
+  border: 1px;
+}
+
 .description {
-    text-align: center;
+    text-align: left;
 }
 img {
     display: block;
