@@ -13,11 +13,17 @@ body {
 .section-box {
   margin-bottom: 15px;
   padding: 12px;
-  border: 1px;
+  border: 1px solid #999999;
+}
+
+.image-box {
+  margin-bottom: 15px;
+  padding: 12px;
+  border: 5px solid #999999;
 }
 
 .description {
-    text-align: left;
+    text-align: justify;
 }
 img {
     display: block;
